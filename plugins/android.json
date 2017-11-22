@@ -12,6 +12,9 @@
     },
     "cordova-plugin-splashscreen": {
       "PACKAGE_NAME": "com.sergirg.hello"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.sergirg.hello"
     }
   },
   "dependent_plugins": {}
